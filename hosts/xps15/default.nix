@@ -9,6 +9,7 @@
       
       # Core and feature modules
       ../../modules/core/base.nix
+      ../../modules/features/gnome.nix
       ../../modules/features/browsers.nix
       ../../modules/features/development.nix
     ];
